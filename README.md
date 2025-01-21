@@ -1,3 +1,9 @@
+**Fork from original project to make it usable with Python3 and GeoIP2 (01/21/2025)**
+---
+Tested on Rocky Linux 9 (required packages: python3-geoip2 from epel,  geolite2-country from appstream)
+
+---
+
 Postscreen Statistics Parser
 ============================
 
